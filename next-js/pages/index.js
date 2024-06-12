@@ -1,0 +1,1 @@
+export default function Home() { return <h1>Rafa³ Was¹¿nik 119774</h1>; }
